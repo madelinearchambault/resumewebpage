@@ -7,10 +7,10 @@
 	font-weight: lighter;
 	font-family: myriad pro;
 	font-style: sans-serif;
-	line-height: 7px;
+	line-height: 10px;
 	text-transform: uppercase;
   letter-spacing: 3px;
-	padding: 5px;
+	padding: 20px;
 	margin: 0 auto;
 
  }
@@ -20,7 +20,7 @@
 	font-family: myriad pro;
 	text-transform: uppercase;
 	line-height: 2px;
-	padding: 15px;
+	padding: 10px;
 	letter-spacing: 5px;
 
  }
@@ -36,7 +36,6 @@
   font-weight: lighter;
   letter-spacing: 2px;
   text-align: center;
- 
 
  }
 
@@ -50,14 +49,13 @@
 
  }
   
- .bodycopy{max-width: 690px center;
+ .bodycopy{max-width: 960px;
   font-family: palatino;
   font-weight: lighter;
   color:#1e1b1d;
   text-align: center;
   line-height: 30px;
-  margin-left: 30px;
-  margin-right: 40px;
+  margin: 0 auto;
   list-style-type: none;
   padding: 10px 10px;
  }
@@ -76,7 +74,7 @@
     position: relative;
     max-width: 800px;
     display: inline-block;
-    padding-top: 30px;
+    padding-top: 10px;
     margin-left: auto;
     margin-right: auto;
     
