@@ -1,0 +1,134 @@
+ .hero{width: 107%;
+ 	position: relative;
+ 	height: auto;
+  }
+
+ .firsttitle{text-align: center;
+	font-weight: lighter;
+	font-family: myriad pro;
+	font-style: sans-serif;
+	line-height: 7px;
+	text-transform: uppercase;
+  letter-spacing: 3px;
+	padding: 5px;
+	margin: 0 auto;
+
+ }
+
+ .companytitle{text-align: center;
+	font-weight: lighter;
+	font-family: myriad pro;
+	text-transform: uppercase;
+	line-height: 2px;
+	padding: 15px;
+	letter-spacing: 5px;
+
+ }
+ .jobtitle{text-align: center;
+ 	font-weight: lighter;
+ 	font-family: myriad pro;
+ 	text-transform: uppercase;
+  letter-spacing: 2px;
+  
+ }
+
+ .date{font-family: palatino;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  text-align: center;
+ 
+
+ }
+
+ .whitebox{width: 100%;
+	background-color:#FAF7F0;
+	padding: 40px 42px;
+	border-color:#FAF7F0;
+  border: 2px;
+	display: block;
+  position: relative;
+
+ }
+  
+ .bodycopy{max-width: 690px center;
+  font-family: palatino;
+  font-weight: lighter;
+  color:#1e1b1d;
+  text-align: center;
+  line-height: 30px;
+  margin-left: 30px;
+  margin-right: 40px;
+  list-style-type: none;
+  padding: 10px 10px;
+ }
+
+ 
+ .orangebox{width: 100%;
+  background-color: #f2cd8a;
+  padding: 40px 42px;
+  border-color: #f2cd8a;
+  border:2px;
+  display: block;
+  position: relative;
+ } 
+
+  .portfolio{line-height: 50px;
+    position: relative;
+    max-width: 800px;
+    display: inline-block;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .awards{text-align: center;
+    font-family: palatino;
+    font-weight: lighter;
+    vertical-align: center;
+    line-height: 40px;
+    margin-left: 50px;
+    margin-right: 60px;
+    list-style-type: none;
+    padding: 10px 10px;
+
+  }
+
+
+  @media screen and (min-width: 960px) and (max-width: 1400px) {
+
+  }
+    body{
+        font-size: 22px;
+    }
+}
+ 
+   @media screen and (max-width: 959px) and (min-width: 600px) {
+    
+    body{
+        font-size: 20px;
+    }
+}
+ 
+  @media screen and (max-width: 599px) and (min-width: 320px) {
+   
+    body{
+        font-size: 18px;
+    }
+ 
+}
+
+/*citation: http://www.stephanimoroni.com/css3-media-queries-affect-on-font-sizes/;*/
+
+@media only screen and (min-width: 400px) {
+    body { 
+        hero image: url('Website Heading.jpg'); 
+    }
+}
+ 
+/*citation: http://www.w3schools.com/css/css_rwd_images.asp;*/		
+	
+
+
+
+	
